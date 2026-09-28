@@ -2,8 +2,8 @@
 
 # Drakons
 
-- Aguilar Meza Diego Antonio
-- Blanco Escobedo José Antonio
--  García Herrera Juan de Dios
+- Aguilar Meza Diego Antonio : Documentacion
+- Blanco Escobedo José Antonio: Product Owner
+- García Herrera Juan de Dios :  
 - Martínez Rangel Diego Jesús
 - Ramírez Meza Gerardo Isaac
