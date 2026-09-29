@@ -1,12 +1,11 @@
 # Proyecto-Integrador-I-E-PIN1-1- 
 
-# Dragones
-# Dragones
-
 ## Proyecto
 Sistema de inventario para “El Chuy”
 
-## Descripción
+## Equipo Dragones
+
+### Descripción
 Proyecto desarrollado para la asignatura Proyecto Integrador I.
 
 El objetivo es desarrollar un sistema de información que permita llevar un
@@ -16,7 +15,7 @@ El sistema permitirá registrar productos, entradas y salidas de mercancía,
 consultar existencias, generar alertas cuando un producto tenga pocas unidades
 y apoyar el proceso de reabastecimiento.
 
-## Integrantes
+### Integrantes
 - Ramírez Meza Gerardo Isaac
 - Martínez Range Diego Jesús
 - Blanco Escobedo José Antonio
